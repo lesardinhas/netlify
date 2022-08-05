@@ -1,0 +1,19 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Resume",
+  "description": "João Gomes",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/cv-push/docs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "defaultSidebar"
+}
